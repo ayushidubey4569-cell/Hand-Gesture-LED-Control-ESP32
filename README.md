@@ -44,5 +44,7 @@ This project demonstrates a real-time hand gesture recognition system that contr
 Hand gestures are detected via webcam and LEDs respond accordingly.
 
 ## 👩‍💻 Author
-Ayushi Kumari  
-Electronics and Communication Engineering
+Ayushi Kumari 
+Aadrika Dikshit
+Akansha singh
+Electronics and Communication Engineering 
