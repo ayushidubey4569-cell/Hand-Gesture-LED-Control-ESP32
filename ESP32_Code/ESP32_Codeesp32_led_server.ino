@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 /* -------- WiFi Details -------- */
-const char* ssid = "mohini_4G";
-const char* password = "salonikawifi";
+const char* ssid = "Galaxy F23 5G 4E4E";
+const char* password = "uoxj7047";
 
 /* -------- Web Server -------- */
 WebServer server(80);
